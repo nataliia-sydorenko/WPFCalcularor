@@ -1,0 +1,11 @@
+C:\Users\asus\documents\visual studio 2017\Projects\WpfCalculator\Model\bin\Debug\Model.dll
+C:\Users\asus\documents\visual studio 2017\Projects\WpfCalculator\Model\bin\Debug\Model.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\WpfCalculator\Model\obj\Debug\Model.dll
+C:\Users\asus\documents\visual studio 2017\Projects\WpfCalculator\Model\obj\Debug\Model.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\WpfCalculator\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\bin\Debug\Model.dll
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\bin\Debug\Model.pdb
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\obj\Debug\Model.dll
+C:\Users\asus\Desktop\С#\WpfCalculator\WpfCalculator\Model\obj\Debug\Model.pdb
